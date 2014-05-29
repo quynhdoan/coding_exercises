@@ -2,7 +2,7 @@
 Created on May 15, 2014
 
 @author: Quynh Doan
-@question: Given two strings, check if one is an anagram/a permutation of the other.
+@reqs: Given two strings, check if one is an anagram/a permutation of the other.
 @assumption: ASCII string (256 characters)
 '''
 
